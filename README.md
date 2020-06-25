@@ -15,8 +15,9 @@ This repository provides CSV format of COVID-19 situation in South Korea reporte
 - example: http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=354632&contSeq=354632&board_id=&gubun=ALL
 
 #### kr_daily.csv
-- COVID-19 situation in South Korea: date, confirmed, death, released, candidate(=test performed), negative
-- Tests Performed = tests in progress + negative results + positive results(confirmed cases)
+- COVID-19 situation in South Korea: date, confirmed, death, released, tested*, negative
+- Tested == tests in progress + negative results + positive results(confirmed cases)
+- (* Tested data has been fixed since 26th June 2020. Please notice that term 'candiate' is no longer used.) 
 - Data provided since 21st January 2020
 - Data link: https://github.com/jooeungen/coronaboard_kr/blob/master/kr_daily.csv
 
