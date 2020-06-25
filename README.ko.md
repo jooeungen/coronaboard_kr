@@ -15,7 +15,7 @@
 - 공시 예: http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=354632&contSeq=354632&board_id=&gubun=ALL
 
 #### kr_daily.csv
-- 대한민국 코로나19 감염현황: 날짜, 누적 확진, 누적 사망, 누적 격리해제, 총 검사자(candidate), 결과 음성(negative)
+- 대한민국 코로나19 감염현황: 날짜(date), 누적 확진(confirmed), 누적 사망(death), 누적 격리해제(released), 총 검사자(tested), 결과 음성(negative) 
 - 총 검사자 = 검사 중 + 결과 음성 + 결과 확진
 - 2020년 1월 21일 데이터 부터 제공 
 - 파일 링크: https://github.com/jooeungen/coronaboard_kr/blob/master/kr_daily.csv
