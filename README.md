@@ -7,7 +7,7 @@ This repository provides CSV format of COVID-19 situation in South Korea reporte
 - Please visit https://coronaboard.kr for visualized charts and data. 
 
 ## Data source 
-- KCDC
+- [KCDC](http://ncov.mohw.go.kr/).
 - http://ncov.mohw.go.kr/
 
 ## CSV Data 
