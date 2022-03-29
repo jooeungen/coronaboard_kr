@@ -30,7 +30,7 @@ This repository provides CSV format of COVID-19 situation in South Korea reporte
 ## Data update 
 - This repository is updated daily at 11am, after KCDC press release. 
 
-### License 
+##License 
 - Available for commercial, non-commercial, research and all other purposes.
 - Copyright notice 'Coronaboard(coronaoard.kr)' is needed. 
 - We are not responsible for any consequence caused by the use of information provided. 
