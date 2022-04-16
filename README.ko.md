@@ -16,12 +16,15 @@
 
 #### kr_daily.csv
 - 대한민국 코로나19 감염현황: 날짜(date), 누적 확진(confirmed), 누적 사망(death), 누적 격리해제(released), 총 검사자(tested), 결과 음성(negative) 
+- 2022년 2월 23일부터 격리해제(released) 수치 공개가 중단되었습니다.
+- 2021년 11월 1일부터 검사자(tested) 수치 공개가 중단되었습니다.
 - 총 검사자 = 검사 중 + 결과 음성 + 결과 확진
 - 2020년 1월 21일 데이터 부터 제공 
 - 파일 링크: https://github.com/jooeungen/coronaboard_kr/blob/master/kr_daily.csv
 
 #### kr_regional_daily.csv
 - 대한민국 지역별 코로나19 감염현황: 날짜, 지역, 누적 확진, 누적 사망, 누적 격리해제
+- 2022년 2월 23일부터 격리해제(released) 수치 공개가 중단되었습니다.
 - 검역의 경우 환자의 지역과 상관 없이 공항에서 확진 및 격리된 수 
 - 2020년 2월 17일 데이터 부터 제공 
 - 파일 링크: https://github.com/jooeungen/coronaboard_kr/blob/master/kr_regional_daily.csv
