@@ -34,4 +34,4 @@ This repository provides CSV format of COVID-19 situation in South Korea reporte
 - Available for commercial, non-commercial, research and all other purposes.
 - Copyright notice 'Coronaboard(coronaoard.kr)' is needed. 
 - We are not responsible for any consequence caused by the use of information provided. 
-- a
+- ab
