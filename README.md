@@ -16,13 +16,16 @@ This repository provides CSV format of COVID-19 situation in South Korea reporte
 
 #### kr_daily.csv
 - COVID-19 situation in South Korea: date, confirmed, death, released, tested*, negative
-- Tested == tests in progress + negative results + positive results(confirmed cases)
+- ⚠️'released' is not updated since 24th February 2022 (by KCDC)
+- ⚠️'tested' is not updated since 1st November 2021 (by KCDC)
+- tested == tests in progress + negative results + positive results(confirmed cases)
 - (* Tested data has been fixed since 26th June 2020. Please notice that term 'candiate' is no longer used.) 
 - Data provided since 21st January 2020
 - Data link: https://github.com/jooeungen/coronaboard_kr/blob/master/kr_daily.csv
 
 #### kr_regional_daily.csv
 - Regional COVID-19 situation in South Korea: date, region, confirmed, death, released 
+- ⚠️'released' is not updated since 24th February 2022 (by KCDC)
 - Quarantine indicates the number of patients who were screened at the airport. 
 - Data provided since 17th February 2020
 - Data link: https://github.com/jooeungen/coronaboard_kr/blob/master/kr_regional_daily.csv
